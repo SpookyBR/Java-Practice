@@ -1,0 +1,3 @@
+Trata-se de um contrato de aluguel de um terreno.
+Em caso de atraso, será aplicada uma multa severa.
+O fiador assume a responsabilidade financeira.
