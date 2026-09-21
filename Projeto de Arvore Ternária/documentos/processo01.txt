@@ -1,0 +1,3 @@
+Este é um contrato de compra e venda de uma casa.
+O cliente assume toda a responsabilidade sobre o imóvel, inclusive sobre o apartamento anexo.
+Não há previsão de multa neste documento.
